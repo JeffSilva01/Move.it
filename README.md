@@ -10,7 +10,9 @@
  <a href="#license">License</a>
 </p>
 
-<img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/screenshot.png">
+<h1 align="center">
+ <img width="800" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/screenshot.png">
+</h1>
 
 <h2 id="technologies"> 🛠 Technologies </h2>
 
