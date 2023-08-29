@@ -14,6 +14,12 @@
  <img width="800" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/screenshot.png">
 </h1>
 
+## 💻 Projeto
+
+O Move.it é um pomodoro gamificado.
+
+- [Acesse o projeto finalizado, online](https://moveit-97zq65dkd-jeffsilva01.vercel.app/)
+
 <h2 id="technologies"> 🛠 Technologies </h2>
 
 The following tools were used in the construction of the project:
